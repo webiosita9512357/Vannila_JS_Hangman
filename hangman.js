@@ -1,3 +1,6 @@
+// This is a simple hangman game that uses the prompt-sync package to get user input.
+
+// The hangman pictures, 6 lives
 const HANGMANPICS = [
   `
   +---+
